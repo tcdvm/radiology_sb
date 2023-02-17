@@ -15,7 +15,9 @@
 * Biceps tendon originates from supraglenoid tubercle and extends laterally next to greater tubercle and smaller medially lesser tubercle
   * Cranioproximal-craniodistal oblique view to see the greater and lesser tubercles -> assess for secondary changes from bicipital tenosynovitis
 * Sometimes ill-defined lucency noted at base of greater tubercle; unknown precisely what it is but questionable (probably none) clinical significance
-* Greater and lesser tubercles and humeral head together make up proximal humeral epiphysis
+* Greater and lesser tubercles and humeral head together make up proximal humeral epiphysis which can look quite funky when fusing (usually closed by 12-18 months) but variable timing
+* Supraglenoid of scapula also develops separately as ossification center (closes at 4-7 months)
+* In mature patient, small triangular region of fat is often present behind caudal humeral head - occ axillobrachial vein, caudal circumflex humeral artery, and branch of the axillary nerve visible within the fat and look like circular opacities --> not joint mice, normal
 
 ## Osteochondrosis
 * Common in canine shoulder
