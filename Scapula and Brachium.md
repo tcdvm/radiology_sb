@@ -18,6 +18,17 @@
 * Greater and lesser tubercles and humeral head together make up proximal humeral epiphysis which can look quite funky when fusing (usually closed by 12-18 months) but variable timing
 * Supraglenoid of scapula also develops separately as ossification center (closes at 4-7 months)
 * In mature patient, small triangular region of fat is often present behind caudal humeral head - occ axillobrachial vein, caudal circumflex humeral artery, and branch of the axillary nerve visible within the fat and look like circular opacities --> not joint mice, normal
+* Humeral shaft - smooth except for deltoid tuberosity from lateral aspect mid-diaphysis 
+  * *Tricipital line* is line of increased opacity from caudal aspect of greater tubercle down to deltoid tuberosity
+  * Small tuberosity on deltoid tuberosity is where teres major attaches mid-tuberosity
+  * Nutrient canal readily apparent on lateral - not cortical fracture
+* 🐈
+  * Nutrient canal medial cortex (vs caudally in dog), usually not seen
+  * Feline humerus is straighter and more uniform compared to dogs
+* Chondrodystrophic animals
+  * Humeral head is flatter
+  * Diaphysis is shorter, curved
+  * Bulbous nature of humeral head and lipping of caudal humeral head can be misinterpreted as osteophytosis
 
 ## Osteochondrosis
 * Common in canine shoulder
