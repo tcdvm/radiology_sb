@@ -38,16 +38,19 @@ Most common views are lateral and cr-cd
 * Femoral condyles originate from different centers of ossification and distal femoral physis visible in dogs younger than 1 year
 * In young dogs, can have a lot of irregular margins around patella and femoral condyles, joint space can appear widened (from thicker articular cartilages)
 
-## Sesamoid Bones
-### Patella
+## Sesamoid Bones (4)
+### 1. Patella
 * 4 seasmoid bones associated with stifle joint, largest is *patella*
 * Patella is insertion point of quadriceps femoris which continues over as a patellar ligament
 * Position of patella in lateral view depends on amount of flexion
 * In Cr-Cd view, should be positioned over and centered over femoral trochlea
 * Distal end of patella may have irregular edge, shouldn’t be confused for geographic lysis
 
-### Medial & Lateral Gastrocnemius Fabellae
+### 2 & 3. Medial & Lateral Gastrocnemius Fabellae
 * Each head of gastroc has a fabellae with the lateral one being slightly bigger than medial
 * Medial one is occ more distal, common variant in Westies (70% of examined dogs vs 9% in other small breeds, rarely in large breeds)
 * Can also have multipartite or fragmented of either one, not clinically significant
 * Finally medial one can be absent and is not clinically significant
+
+### 4. Popliteal sesamoid bone
+* Lies in tendon of of popliteus muscle
