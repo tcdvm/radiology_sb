@@ -31,3 +31,23 @@ Most common views are lateral and cr-cd
 
 ## Distal Femur
 * Medial and lateral condyle which articulate with tibia, with interposed menisci to form *stifle* joint
+* At each condyle cranially is a ridge anteriomedially that forms groove between condyles called *intercondylar fossa* -> many vessels enter femur here and create an area of lucency (**not** lysis)
+* Concave depression at lateral cranial aspect of lateral condyle is attachment point for origin of the *long digital extensor* called the *extensor fossa*
+  * Can be confused with osteochondrosis lesion
+  * Can become more conspicuous radiographically in dogs with arthritis due to new bone formation at periphery of fossa
+* Femoral condyles originate from different centers of ossification and distal femoral physis visible in dogs younger than 1 year
+* In young dogs, can have a lot of irregular margins around patella and femoral condyles, joint space can appear widened (from thicker articular cartilages)
+
+## Sesamoid Bones
+### Patella
+* 4 seasmoid bones associated with stifle joint, largest is *patella*
+* Patella is insertion point of quadriceps femoris which continues over as a patellar ligament
+* Position of patella in lateral view depends on amount of flexion
+* In Cr-Cd view, should be positioned over and centered over femoral trochlea
+* Distal end of patella may have irregular edge, shouldn’t be confused for geographic lysis
+
+### Medial & Lateral Gastrocnemius Fabellae
+* Each head of gastroc has a fabellae with the lateral one being slightly bigger than medial
+* Medial one is occ more distal, common variant in Westies (70% of examined dogs vs 9% in other small breeds, rarely in large breeds)
+* Can also have multipartite or fragmented of either one, not clinically significant
+* Finally medial one can be absent and is not clinically significant
