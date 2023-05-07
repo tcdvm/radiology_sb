@@ -53,4 +53,32 @@ Most common views are lateral and cr-cd
 * Finally medial one can be absent and is not clinically significant
 
 ### 4. Popliteal sesamoid bone
-* Lies in tendon of of popliteus muscle
+* Lies in tendon of popliteus muscle
+* Not present in every patient, if missing no big deal
+* Sometimes can only be seen in lateral view bc of imposition on cr-cd views
+
+## Infrapatellar Fat Pad
+* Sits behind patellar ligament
+* Visible as radiolucent structure bounded by stifle and associated bones
+* Extracapsular to the stifle joint -> can appear displaced cranially if there’s swelling or mass within the joint
+
+## Extracapsular fascial stripe
+* Caudal to stifle, can be pushed caudally or curved same as infrapatellar fat pad with any joint swelling
+
+## Medial & Lateral Menisci
+* Cannot be evaluated radiographically - contribute to soft tissue opacity but so much imposition and not large enough to evaluate on radiographs
+
+## Chondrodystrophic Breed Changes
+* Femur is shorter with larger protuberances (e.g. greater & lesser trochanter)
+* Femoral head is larger than neck which can give a weird appearance but is not osteophyte formation
+* Femoral condyles are also larger and the femur at this end is more curved with caudal displacement of femoral condyles
+
+## Popliteal Lymphocenter
+* With improvements in contrast resolution, can now see this in lateral rads - usu one LN but sometimes can have more than 1
+
+🐈
+* Femur is similar to dogs, but more linear and lesser trochanter is a little larger
+* 2 major differences in stifle joint
+  * Feline patella is tapered and longer distal end
+  * Small mineralized foci cranial aspect of the joint in lateral in 37% of cats - could represent regions of ossification of medial meniscus - clinically insignificant when small, when larger associated with cartilage erosion - called *meniscal ossicles*
+  
